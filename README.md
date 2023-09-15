@@ -8,7 +8,7 @@
  <h3 align="left">👨🏻‍💻 About Me :</h3>
  
 
-- 🔭 I’m currently working on **Blockchain Project**
+- 🔭 I’m currently working on **PyTorch and OpenCv**
 
 - 🌱 I’m currently learning **Blockchain, Javascript etc.**
 
